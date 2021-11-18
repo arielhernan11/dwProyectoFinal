@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pequeña Empresa",
+        "precio": 100000,
+        "src": "images/empresas.png",
+         "alt": "empresas",
+         "desc":"Para empresas con menos de 50 empleados"
+    
+    },
+    {
+        "id": 2,
+        "nombre": "Mediana Empresa",
+        "precio": 300000,
+        "src": "images/empresas.png",
+        "alt": "empresas",
+        "desc":"Para empresas con 51 a 200 empleados"
+    },
+    {
+        "id": 3,
+        "nombre": "Gran Empresa",
+        "precio": 500000,
+        "src": "images/empresas.png",
+        "alt": "empresas",
+        "desc":"Para empresas con mas de 200 empleados"
+      
+    }
+]
